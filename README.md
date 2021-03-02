@@ -1,4 +1,6 @@
-npm start
+# to run
+- yarn install
+- npm start
 
 adding a route 
 ```
